@@ -1,0 +1,24 @@
+table, th, td {
+  border: 1px solid white;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color:black;
+  color:white;
+  text-align:center;
+  font-family:Arial;
+}
+.pfp {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:25%;
+  height:auto;
+}
+marquee {
+  height:auto;
+  width:auto;
+}
